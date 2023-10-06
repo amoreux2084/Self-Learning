@@ -38,5 +38,6 @@
 		{ "command": "Create case",              "snippet": "case ${1:true}:\n\t$2\n\tbreak;\n", "ext": [".ts", ".js"] },
 		{ "command": "Create default",           "snippet": "default:\n\t$2\n\tbreak;\n", "ext": [".ts", ".js"] },
 		{ "command": "Create try catch",         "snippet": "try {\n\t$1\n} catch (${2:e}) {\n\t$3\n}\n", "ext": [".ts", ".js"] }
+		
 	]
 }
