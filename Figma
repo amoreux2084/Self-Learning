@@ -1,0 +1,33 @@
+Figma Notes
+
+
+Shortcuts:
+"F" - to draw a frame
+Shift+E  - switch between Design and Prototype modes. 
+Shift + Space = Preview
+Cmd + V = paste navigation into each screen
+
+
+
+Steps:
+
+Designers always start with a rectangle shape and then round its corners to 120 degrees each. 
+
+1. Create Frame
+2. Select device screen size on the right
+3. Insert shape for buttons
+4. Look at Prototype vs. a Design mode
+5. Add interaction between shapes by clicking on "+" button on the right of the shape
+6. Add a backward relationaship between shapes if needed
+7. Use preview button to check how it works
+8. Create a non-linear navigation
+9. Drag noodle from navigation button to the prototype screen
+10. Add a Simple Scroll feature to your prototype (clip content to hide the scrolling content)
+11. Fixed behavior if you want to have a menu that does not move when you scroll
+12. Use Auto-Layout if you need to group different objects that later will be scrolling. Apply vertical or horizontal scroll (->). 
+13. Animations: aloow to combine several components in one prototype. 
+14. Create 2 draggers (Off and On) and establish the connections (On drag)
+15. Make those Draggers reusable: select them both, create component set (they become purple)
+16. Use "Auto-delay" to create animations
+17. "On tap" for touch devices as iPhone etc, versus "On click" for PCs and non-touch devices 
+18.
