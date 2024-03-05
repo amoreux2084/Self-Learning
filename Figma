@@ -6,7 +6,7 @@ Shortcuts:
 Shift+E  - switch between Design and Prototype modes. 
 Shift + Space = Preview
 Cmd + V = paste navigation into each screen
-
+Ctrl + D = create a duplicate
 
 
 Steps:
@@ -22,7 +22,7 @@ Designers always start with a rectangle shape and then round its corners to 120 
 7. Use preview button to check how it works
 8. Create a non-linear navigation
 9. Drag noodle from navigation button to the prototype screen
-10. Add a Simple Scroll feature to your prototype (clip content to hide the scrolling content)
+10. Add a Simple Scroll feature to your prototype (clip content to hide the scrolling content) in the "Scroll behavior" section of the Prototype
 11. Fixed behavior if you want to have a menu that does not move when you scroll
 12. Use Auto-Layout if you need to group different objects that later will be scrolling. Apply vertical or horizontal scroll (->). 
 13. Animations: aloow to combine several components in one prototype. 
@@ -30,4 +30,7 @@ Designers always start with a rectangle shape and then round its corners to 120 
 15. Make those Draggers reusable: select them both, create component set (they become purple)
 16. Use "Auto-delay" to create animations
 17. "On tap" for touch devices as iPhone etc, versus "On click" for PCs and non-touch devices 
-18.
+18. Use "Create component", duplicate or triplicate it to scale several objects at the same time
+19. Use pages to paste copied or duplicated objects and not mess around with other objects/components
+20. Switch on Beta Mode to see how it will look like for your designers
+
